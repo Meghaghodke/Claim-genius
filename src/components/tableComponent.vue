@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>Records</h3>
+   
    
     <table v-if="records.length > 0">
       
